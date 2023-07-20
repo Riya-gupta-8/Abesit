@@ -1,0 +1,4 @@
+[core]
+    remote = abesit_storage
+['remote "abesit_storage"']
+    url = /home/riya/Abesit_Storage
